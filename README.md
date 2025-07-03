@@ -14,12 +14,12 @@ This repository contains scripts, and results for analyzing SCOBY (kombucha cult
 
 
 2. **Create and activate a virtual environment**
-```bash
+    ```bash
     python3 -m venv venv
     source venv/bin/activate   # on Windows: venv\Scripts\activate
 
 3. **Install dependencies**
-```bash
+    ```bash
     pip install -r requirements.txt
 
 ---
